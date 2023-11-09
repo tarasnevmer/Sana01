@@ -18,3 +18,4 @@ Console.WriteLine($"Result z: {z}");
 
 double r = ((1.0f / 2.0f * a + 3.0f /4.0f  * b - 7.0f /5.0f ) / (3 * c + 1)) + (1 / (a - c));
 Console.WriteLine($"Result r: {r}");
+
